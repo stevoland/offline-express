@@ -2,14 +2,14 @@
   "name": "offline-express",
   "description": "Offline Express",
   "version": "0.0.1",
-  "homepage": "http://github.com/matthew-andrews/offline-express",
+  "homepage": "http://github.com/stevoland/offline-express",
   "author": {
     "name": "Matt Andrews",
     "email": "matt@mattandre.ws"
   },
   "repository": "",
   "bugs": {
-    "url": "https://github.com/matthew-andrews/offline-express/issues"
+    "url": "https://github.com/stevoland/offline-express/issues"
   },
   "engines": {
     "node": "*"
